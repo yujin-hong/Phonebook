@@ -1,3 +1,6 @@
+### Simply can run with `yarn start`, server will started at port 3000.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -68,5 +71,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 
-### Simply can run with `yarn start`, server will started at port 3000.
 
