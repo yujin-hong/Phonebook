@@ -68,5 +68,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 
-### Simply can run with `yarn start`, server will started at 3000 port
+### Simply can run with `yarn start`, server will started at port 3000.
 
